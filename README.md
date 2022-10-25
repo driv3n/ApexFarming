@@ -1,30 +1,16 @@
 # ApexFarming
-Thank you Luv#6424 for new pictures 
-
-Hello this is a basic python script, that just looking for thinks on your screen and if its founds a match it well press keys, this is made for Apex afk farming, because getting to level 10 is annoying.
+This is a basic python script that searches for things on your screen and when it finds a match it well press the respective keys. The primary and current function is for Apex AFK farming, because getting to level 10 is annoying.
 
 https://www.unknowncheats.me/forum/apex-legends/464685-apexfarming.html
 
 
-
-HOW TO USE: https://www.youtube.com/watch?v=jDW0c-3qCkA&ab_channel=SteveKiller176
-
-YOU CAN SKIP ALL OF THIS AND JUST RUN THE INSTALL PYTHON.BAT file 
-and then run the start.bat
-
+Before running the start.bat, make sure to install python, open the command prompt, and type the following commands:
  • pip install pywin32                                                                                                                                                 
  • pip install keyboard                                                                                                                                                 
  • pip install pyautogui                                                                                                                                               
  • pip install opencv-python                                                                                                                                           
-
 if your getting a "The Pillow package is required to use this function" error, use:
-
  • pip install Pillow --upgrade
-
-
-
-
-
 
 
 NOTE: this is made to farm ranked aswell so it well only leave the game when the full team dead's.

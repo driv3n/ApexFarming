@@ -1,6 +1,8 @@
 # Apex XP Farm
 This is a basic python script that searches for things on your screen and when it finds a match it well press the respective keys. The primary and current function is for Apex AFK farming, because getting to level 10 is annoying.
 
+NOTE: You can use this for ranked as well, only thing is that's kind of messed up, and it will only leave the game when the full team is dead.
+
 # Instrunctions
 Before running the start.bat, make sure to install python, open the command prompt, and type the following commands:
  • pip install pywin32                                                                                                                                                 
@@ -9,10 +11,6 @@ Before running the start.bat, make sure to install python, open the command prom
  • pip install opencv-python                                                                                                                                           
 if your getting a "The Pillow package is required to use this function" error, use:                                                                                       
  • pip install Pillow --upgrade
-
-
-NOTE: You can use this for ranked as well, only thing is that's kind of messed up, and it will only leave the game when the full team is dead.
-
 
 
 

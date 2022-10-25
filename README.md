@@ -12,13 +12,10 @@ HOW TO USE: https://www.youtube.com/watch?v=jDW0c-3qCkA&ab_channel=SteveKiller17
 YOU CAN SKIP ALL OF THIS AND JUST RUN THE INSTALL PYTHON.BAT file 
 and then run the start.bat
 
- • pip install pywin32
-
- • pip install keyboard
-
- • pip install pyautogui
-
- • pip install opencv-python
+ • pip install pywin32                                                                                                                                                 
+ • pip install keyboard                                                                                                                                                 
+ • pip install pyautogui                                                                                                                                               
+ • pip install opencv-python                                                                                                                                           
 
 if your getting a "The Pillow package is required to use this function" error, use:
 

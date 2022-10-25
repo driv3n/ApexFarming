@@ -9,7 +9,8 @@ Before running the start.bat, make sure to install python, open the command prom
  • pip install keyboard                                                                                                                                                 
  • pip install pyautogui                                                                                                                                               
  • pip install opencv-python                                                                                                                                           
-if your getting a "The Pillow package is required to use this function" error, use:                                                                                       
+
+If your getting a "The Pillow package is required to use this function" error, use:                                                                                       
  • pip install Pillow --upgrade
 
 

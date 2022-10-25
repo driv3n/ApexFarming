@@ -1,4 +1,4 @@
-# ApexFarming
+# Apex XP Farm
 This is a basic python script that searches for things on your screen and when it finds a match it well press the respective keys. The primary and current function is for Apex AFK farming, because getting to level 10 is annoying.
 
 # Instrunctions

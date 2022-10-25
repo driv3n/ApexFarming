@@ -20,6 +20,6 @@ NOTE: You can use this for ranked as well, only thing is that's kind of messed u
 
 
 
-For more information on how this works and for troubleshooting: 
+For more information on how this works and for troubleshooting:                                                                                                           
  • https://github.com/KianBrose/Image-Recognition-Botting-Tutorial                                                                                                       
  • https://www.youtube.com/watch?v=YRAIUA-Oc1Y&ab_channel=KianBrose

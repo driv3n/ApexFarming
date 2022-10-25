@@ -9,19 +9,17 @@ Before running the start.bat, make sure to install python, open the command prom
  • pip install keyboard                                                                                                                                                 
  • pip install pyautogui                                                                                                                                               
  • pip install opencv-python                                                                                                                                           
-if your getting a "The Pillow package is required to use this function" error, use:
+if your getting a "The Pillow package is required to use this function" error, use:                                                                                       
  • pip install Pillow --upgrade
 
 
-NOTE: this is made to farm ranked aswell so it well only leave the game when the full team dead's.
+NOTE: You can use this for ranked as well, only thing is that's kind of messed up, and it will only leave the game when the full team is dead.
 
 
 
 
 
 
-for more information on how this work
-
-https://github.com/KianBrose/Image-Recognition-Botting-Tutorial
-
-https://www.youtube.com/watch?v=YRAIUA-Oc1Y&ab_channel=KianBrose
+For more information on how this works and for troubleshooting: 
+ • https://github.com/KianBrose/Image-Recognition-Botting-Tutorial                                                                                                       
+ • https://www.youtube.com/watch?v=YRAIUA-Oc1Y&ab_channel=KianBrose

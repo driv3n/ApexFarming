@@ -4,7 +4,7 @@ This is a basic python script that searches for things on your screen and when i
 NOTE: You can use this for ranked as well, only thing is that's kind of messed up, and it will only leave the game when the full team is dead.
 
 # Instrunctions
-Before running the start.bat, make sure to install python, open the command prompt, and type the following commands:
+Before running the start.bat, make sure to install python, open the command prompt, and type the following commands:                                                     
  • pip install pywin32                                                                                                                                                 
  • pip install keyboard                                                                                                                                                 
  • pip install pyautogui                                                                                                                                               
